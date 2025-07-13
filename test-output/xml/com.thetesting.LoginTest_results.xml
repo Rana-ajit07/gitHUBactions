@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pracnew"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="23.575">
+    <properties></properties>
+
+
+
+            <testcase
+                name="screen02"
+                time="6.688"
+                classname="com.thetesting.LoginTest">
+            </testcase>
+            <testcase
+                name="shadowDom"
+                time="0.345"
+                classname="com.thetesting.LoginTest">
+            </testcase>
+            <testcase
+                name="screenShot"
+                time="0.247"
+                classname="com.thetesting.LoginTest">
+            </testcase>
+            <testcase
+                name="screen2"
+                time="6.610"
+                classname="com.thetesting.LoginTest">
+            </testcase>
+            <testcase
+                name="PositiveLogin"
+                time="0.639"
+                classname="com.thetesting.LoginTest">
+            </testcase>
+            <testcase
+                name="elementscreenshot"
+                time="0.488"
+                classname="com.thetesting.LoginTest">
+            </testcase>
+            <testcase
+                name="visibilityTest"
+                time="8.558"
+                classname="com.thetesting.LoginTest">
+            </testcase>
+</testsuite>

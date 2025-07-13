@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pracnew"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.312">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getTitle"
+                time="3.741"
+                classname="com.thetesting.ctossbrowser">
+            </testcase>
+            <testcase
+                name="getTitle"
+                time="2.571"
+                classname="com.thetesting.ctossbrowser">
+            </testcase>
+</testsuite>
